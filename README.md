@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
 ## I'm Pragati, A Student 
+
 <!--
 **Pro-18/Pro-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently Studying in Final Year of Information Technology Branch ....
-- 🌱 I’m currently learning Data Analaysis ...
+- 🔭 I’m currently Studying in Final Year of Information Technology Branch
+- 🌱 I’m currently learning Data Analaysis 
 - ⚡ I'm a Python Developer
   
 ## 🛠 Skills
