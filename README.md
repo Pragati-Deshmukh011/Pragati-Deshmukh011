@@ -13,6 +13,12 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> LINUX
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  MYSQL
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MONGODB
+  
+## ⚡ My stack
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pro-18&theme=dark" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-18"/>
 
 
 ## 📫 Reach me:
