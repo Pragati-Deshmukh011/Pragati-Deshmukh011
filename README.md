@@ -10,7 +10,7 @@
 - ⚡ I'm a Python Developer
   
 ## 🛠 Skills
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> PYTHON
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> PYTHON
 -  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="python" width="30" height="20"/> Django
 -  <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" alt="python" width="30" height="30"/> Flask   
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
