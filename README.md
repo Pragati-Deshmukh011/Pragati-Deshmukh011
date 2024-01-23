@@ -7,7 +7,7 @@
 - ⚡ I'm a Python Developer
 - 
 ## 🛠 Skills
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> PYTHON
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> PYTHON   
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> JAVA
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> LINUX
@@ -22,8 +22,9 @@
 
 
 ## 📫 Reach me:
-##### Mail : pragatideshmukh011@gmail.com
-##### LinkedIn: www.linkedin.com/in/pragati-deshmukh-56080a222
+##### <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="java" width="30" height="30"/>: pragatideshmukh011@gmail.com
+##### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/pragati-deshmukh-56080a222)
+
 
 
 
