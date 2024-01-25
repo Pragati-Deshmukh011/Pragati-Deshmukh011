@@ -22,9 +22,9 @@
   
 ## ⚡ My stack
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pro-18&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pragati-Deshmukh011)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-18"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati-Deshmukh011"/>
 
 
 ## 📫 Reach me:
