@@ -22,7 +22,7 @@
   
 ## ⚡ My stack
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pragati-Deshmukh011)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pragatideshmukh011)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati-Deshmukh011"/>
 
