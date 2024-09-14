@@ -3,8 +3,7 @@
 
 ## I'm Pragati, A Student 
 
-<!--
-**Pro-18/Pro-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 - 🔭 I’m currently Studying in Final Year (Information Technology)
 - 🌱 I’m currently learning Data Analaysis 
 - ⚡ I'm a Python Developer
